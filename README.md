@@ -128,11 +128,6 @@ fi</code></pre>
 </div>
 </div>
 </div>
-<div id="postamble" class="status">
-<p>Date: 2022-11</p>
-<p>Created: 2022-11-02 Wed 03:00</p>
-<p><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
-</div>
 </body>
 
 
